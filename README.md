@@ -1,15 +1,13 @@
-### Olá, eu sou o Gabriel Matheus!
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRGalvao&showicons=true&theme=dracula)
+### 🛠️ My Tech Stack & Learning Journey
+Acredito na construção de uma base técnica agnóstica a linguagem, focando em fundamentos que se aplicam a qualquer stack.
 
-## Tecnologias que uso no meu dia
-
-<div style="display: inline_block"><br/>
-  <img aligin = "center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" 
-
-  <div style="display: inline_block"><br/>
-   <img aligin = "center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
-
-  <div style="display: inline_block"><br/>
-   <img aligin = "center" alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+**Linguagens & Base Técnica:**
+<div>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
+- **Foco atual:** Java (POO, Estrutura de Dados e Lógica Avançada).
+- **Ferramentas & Ambiente:** Git, GitHub, Linux (Ubuntu), Eclipse IDE.
+- **Interesses:** Arquitetura de Software, Clean Code e Desenvolvimento Backend.
